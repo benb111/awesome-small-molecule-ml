@@ -37,6 +37,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Representation and transfer learning
 
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). [[Code](https://github.com/seyonechithrananda/bert-loves-chemistry)]
+* Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035).
 * Chuang and Keiser, 2020. [Attention-Based Learning on Molecular Ensembles](https://arxiv.org/abs/2011.12820).
 * Li and Fourches, 2020. [Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00430-x). [[Code](https://github.com/XinhaoLi74/MolPMoFiT)]
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). [[Code](https://github.com/snap-stanford/pretrain-gnns)]
@@ -63,6 +64,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 * Bender et al, 2021. [A practical guide to large-scale docking](https://www.nature.com/articles/s41596-021-00597-z).
 * García-Ortegón et al, 2021. [DOCKSTRING: easy molecular docking yields better benchmarks for ligand design](https://arxiv.org/abs/2110.15486). [[Code](https://github.com/dockstring/dockstring)] [[Data](https://figshare.com/s/95f2fed733dec170b998)]
+* Graff et al, 2021. [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e). [[Code](https://github.com/coleygroup/molpal)]
 * Gentile et al, 2020. [Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery](https://pubs.acs.org/doi/10.1021/acscentsci.0c00229). [[Code](https://github.com/jamesgleave/Deep-Docking-NonAutomated)]
 * Cáceres et al, 2020. [Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00565).
 * Lin et al, 2019. [Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9).
@@ -78,6 +80,9 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 <a id="papers-synthetic-accessibility"></a>
 ### Synthetic accessability and retrosynthetic planning
 
+* Fortunato et al, 2020. [Data augmentation and pretraining for template-based retrosynthetic prediction in computer-aided synthesis planning](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00403).
+* Somnath et al, 2020. [Learning Graph Models for Retrosynthesis Prediction](https://arxiv.org/abs/2006.07038).
+* Dai et al, 2019. [Retrosynthesis Prediction with Conditional Graph Logic Network](https://arxiv.org/abs/2001.01408). [[Code](https://github.com/Hanjun-Dai/GLN)]
 * Coley et al, 2018. [SCScore: Synthetic Complexity Learned from a Reaction Corpus](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622). [[Code](https://github.com/connorcoley/scscore)] [[DeepChem implementation](https://github.com/deepchem/deepchem/blob/master/deepchem/models/scscore.py)]
 
 <a id="papers-viz"></a>
@@ -89,26 +94,28 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Naveja and Medina-Franco, 2019. [Finding Constellations in Chemical Space Through Core Analysis](https://www.frontiersin.org/articles/10.3389/fchem.2019.00510/full).
 
 
-## Data sets and benchmarks
-* Therapeutic Data Commons
-* MoleculeNet
-* DrugMatrix
-* NCATS
+## Data sets
+* [Therapeutic Data Commons](https://tdcommons.ai/)
+* [MoleculeNet](https://moleculenet.org/)
+* [DrugMatrix](https://ntp.niehs.nih.gov/data/drugmatrix/)
+* [ADME@NCATS](https://opendata.ncats.nih.gov/adme)
 * [Enamine Real database](https://enamine.net/compound-collections/real-compounds/real-database)
-* Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035)
 * [The Open Reaction Database](https://docs.open-reaction-database.org/en/latest/)
 * [Zinc](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00675)
 
-## Frameworks
-
-## Libraries
+## Frameworks, Libraries, and Software Tools
 * [AutoDock Vina](https://autodock-vina.readthedocs.io/en/latest/index.html)
 * [BioPandas](http://rasbt.github.io/biopandas/)
-* [CReM - chemically reasonable mutations](https://github.com/DrrDom/crem)
+* [DeepChem](https://deepchem.io/)
 * [pdb-tools](http://www.bonvinlab.org/pdb-tools/)
+* [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 * [rd_filters](https://github.com/PatWalters/rd_filters)
 
 ## Blogs
+* [Hyperparameter Space](http://hyperparameter.space/)
+* [Is Life Worth Living](https://iwatobipen.wordpress.com/)
+* [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/)
+* [RDKit Blog](https://greglandrum.github.io/rdkit-blog/)
 
 ## Twitter
 * [Regina Barzilay](https://twitter.com/BarzilayRegina)
