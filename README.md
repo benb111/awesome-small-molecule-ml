@@ -7,10 +7,11 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [Related lists](#related-lists)
 * [Papers](#papers)
     * [Survey papers](#papers-surveys)
+    * [Representation and transfer learning](#papers-representation)
     * [Generative algorithms](#papers-generative-algorithms)
-    * [Molecular property and activity prediction](#papers-property-and-activity-prediction)
+    * [Hit finding and potency prediciton](#papers-hit-finding)
+    * [ADME and toxicity prediction](#papers-adme-tox)
     * [Synthetic accessability and retrosynthetic planning](#papers-synthetic-accessibility)
-    * [Transfer learning](#papers-transfer-learning)
 * [Data sets](#datasets)
 * [Frameworks](#frameworks)
 * [Libraries](#libraries)
@@ -31,10 +32,18 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Walters and Barzilay, 2020. [Applications of Deep Learning in Molecule Generation and Molecular Property Prediction](https://pubs.acs.org/doi/10.1021/acs.accounts.0c00699).
 * Cai et al, 2020. [Transfer Learning for Drug Discovery](https://doi.org/10.1021/acs.jmedchem.9b02147).
 
+<a id="papers-representation"></a>
+### Representation and transfer learning
+
+* Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S).
+    * [Link to code](https://github.com/seyonechithrananda/bert-loves-chemistry)
+* Chuang and Keiser, 2020. [Attention-Based Learning on Molecular Ensembles](https://arxiv.org/abs/2011.12820).
+* Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237)
+    * [Link to code](https://github.com/chemprop/chemprop)
+
 <a id="papers-generative-algorithms"></a>
 ### Generative algorithms
 
-* Frey et al, 2021. [FastFlows: Flow-Based Models for Molecular Graph Generation](https://cloud.ml.jku.at/s/DA4SbxSG3nHggAE).
 * Takeuchi et al, 2021. [R-group replacement database for medicinal chemistry](https://www.future-science.com/doi/10.2144/fsoa-2021-0062).
 * Imrie et al, 2020. [Deep Generative Models for 3D Linker Design](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01120).
     * [Link to code](https://github.com/oxpig/DeLinker)
@@ -55,37 +64,43 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
     * [Link to code](https://github.com/wengong-jin/icml18-jtnn)
 * Merk et al, 2018. [De Novo Design of Bioactive Small Molecules by Artificial Intelligence](https://pubmed.ncbi.nlm.nih.gov/29319225/).
 
-<a id="papers-property-and-activity-prediction"></a>
-### Molecular property and activity prediction
+<a id="papers-hit-finding"></a>
+### Hit finding and potency prediciton
 
-* Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S).
-    * [Link to code](https://github.com/seyonechithrananda/bert-loves-chemistry)
-* Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035).
-* Cáceres et al, 2020. [Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00565).
-* Chuang and Keiser, 2020. [Attention-Based Learning on Molecular Ensembles](https://arxiv.org/abs/2011.12820).
+* Bender et al, 2021. [A practical guide to large-scale docking](https://www.nature.com/articles/s41596-021-00597-z).
+* García-Ortegón et al, 2021. [DOCKSTRING: easy molecular docking yields better benchmarks for ligand design](https://arxiv.org/abs/2110.15486).
+    * [Link to code](https://github.com/dockstring/dockstring)
+    * [Link to data](https://figshare.com/s/95f2fed733dec170b998)
 * Gentile et al, 2020. [Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery](https://pubs.acs.org/doi/10.1021/acscentsci.0c00229).
     * [Link to code](https://github.com/jamesgleave/Deep-Docking-NonAutomated)
-* Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237)
-    * [Link to code](https://github.com/chemprop/chemprop)
+* Cáceres et al, 2020. [Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00565).
 
+
+<a id="papers-adme-tox"></a>
+### ADME and toxicity prediction
+
+* Göller et al, 2020. [Bayer’s in silico ADMET platform: a journey of machine learning over the past two decades](https://doi.org/10.1016/j.drudis.2020.07.001).
+* Ryu et al, 2020. [DeepHIT: a deep learning framework for prediction of hERG-induced cardiotoxicity](https://doi.org/10.1093/bioinformatics/btaa075).
+    * [Link to code](https://bitbucket.org/krictai/deephit/src/master/)
 
 <a id="papers-synthetic-accessibility"></a>
 ### Synthetic accessability and retrosynthetic planning
 
-<a id="papers-transfer-learning"></a>
-### Transfer learning
-
-## Data sets
+## Data sets and benchmarks
 * Therapeutic Data Commons
 * MoleculeNet
 * DrugMatrix
 * NCATS
+* [Enamine Real database](https://enamine.net/compound-collections/real-compounds/real-database)
+* Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035)
 
 ## Frameworks
 
 ## Libraries
+* [AutoDock Vina](https://autodock-vina.readthedocs.io/en/latest/index.html)
 * [CReM - chemically reasonable mutations](https://github.com/DrrDom/crem)
 * [rd_filters](https://github.com/PatWalters/rd_filters)
+* [BioPandas](http://rasbt.github.io/biopandas/)
 
 ## Blogs
 
