@@ -44,10 +44,30 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
     * [Link to code](https://github.com/DrrDom/crem)
 * Brown, 2019. [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://doi.org/10.1021/acs.jcim.8b00839).
     * [Link to code](https://github.com/BenevolentAI/guacamol)
+* Popova et al, 2019. [MolecularRNN: Generating realistic molecular graphs with optimized properties
+](https://arxiv.org/abs/1905.13372).
+* You et al, 2019. [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://arxiv.org/abs/1806.02473).
+    * [Link to code](https://github.com/bowenliu16/rl_graph_generation)
+* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x).
+    * [Link to code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn)
+    * [PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch)
+* Jin et al, 2018. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364).
+    * [Link to code](https://github.com/wengong-jin/icml18-jtnn)
 * Merk et al, 2018. [De Novo Design of Bioactive Small Molecules by Artificial Intelligence](https://pubmed.ncbi.nlm.nih.gov/29319225/).
 
 <a id="papers-property-and-activity-prediction"></a>
 ### Molecular property and activity prediction
+
+* Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S).
+    * [Link to code](https://github.com/seyonechithrananda/bert-loves-chemistry)
+* Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035).
+* Cáceres et al, 2020. [Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00565).
+* Chuang and Keiser, 2020. [Attention-Based Learning on Molecular Ensembles](https://arxiv.org/abs/2011.12820).
+* Gentile et al, 2020. [Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery](https://pubs.acs.org/doi/10.1021/acscentsci.0c00229).
+    * [Link to code](https://github.com/jamesgleave/Deep-Docking-NonAutomated)
+* Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237)
+    * [Link to code](https://github.com/chemprop/chemprop)
+
 
 <a id="papers-synthetic-accessibility"></a>
 ### Synthetic accessability and retrosynthetic planning
@@ -56,6 +76,10 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Transfer learning
 
 ## Data sets
+* Therapeutic Data Commons
+* MoleculeNet
+* DrugMatrix
+* NCATS
 
 ## Frameworks
 
@@ -65,4 +89,13 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ## Blogs
 
-## Tiwtter
+## Twitter
+* [Regina Barzilay](https://twitter.com/BarzilayRegina)
+* [Bob the Grumpy Med Chemist](https://twitter.com/med_chemist)
+* [John Chodera](https://twitter.com/jchodera)
+* [Connor W. Coley](https://twitter.com/cwcoley)
+* [Greg Landrum](https://twitter.com/dr_greg_landrum)
+* [pen(Taka)](https://twitter.com/iwatobipen)
+* [Bharath Ramsundar](https://twitter.com/rbhar90)
+* [Marwin Segler](https://twitter.com/marwinsegler)
+* [Patrick Walters](https://twitter.com/wpwalters)
