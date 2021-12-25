@@ -1,4 +1,4 @@
-# Awesome Small Molecule ML [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Small Molecule Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome papers, data sets, frameworks, packages, blogs, and other resources related to machine learning for small-molecule drug discovery. Please [contribute](CONTRIBUTING.md)!
 
