@@ -1,6 +1,7 @@
 # Awesome Small Molecule ML [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome papers, data sets, frameworks, packages, blogs, and other resources for ML for small-molecule drug discovery. Please [contribute](CONTRIBUTING.md)!
+A curated list of awesome papers, data sets, frameworks, packages, blogs, and other resources related to machine-learning for small-molecule drug discovery. Please [contribute](CONTRIBUTING.md)!
+
 
 ## Contents
 
@@ -12,11 +13,12 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
     * [ADME and toxicity prediction](#papers-adme-tox)
     * [Synthetic accessability and retrosynthetic planning](#papers-synthetic-accessibility)
     * [Visualization and interpretability](#papers-viz)
-* [Data sets](#datasets)
+* [Data sets](#data-sets)
 * [Frameworks, Libraries, and Software Tools](#frameworks)
 * [Blogs](#blogs)
 * [Twitter](#twitter)
 * [Related lists](#related-lists)
+
 
 ## Papers
 
@@ -98,9 +100,12 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ## Data sets
 * [ADME@NCATS](https://opendata.ncats.nih.gov/adme)
+* [BindingDB](https://www.bindingdb.org/bind/index.jsp)
+* [ChEMBL](https://www.ebi.ac.uk/chembl/)
 * [DrugMatrix](https://ntp.niehs.nih.gov/data/drugmatrix/)
 * [Enamine Real database](https://enamine.net/compound-collections/real-compounds/real-database)
 * [MoleculeNet](https://moleculenet.org/)
+* [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 * [The Open Reaction Database](https://docs.open-reaction-database.org/en/latest/)
 * [Therapeutic Data Commons](https://tdcommons.ai/)
 * [Zinc](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00675)
@@ -115,6 +120,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [pdb-tools](http://www.bonvinlab.org/pdb-tools/)
 * [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 * [rd_filters](https://github.com/PatWalters/rd_filters)
+* [Small-World Search](https://sw.docking.org/search.html)
 
 
 ## Blogs
