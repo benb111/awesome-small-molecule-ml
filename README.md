@@ -1,10 +1,9 @@
 # Awesome Small Molecule ML [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome papers, data sets, frameworks, packages, blogs, and other resources for generating small molecules and making property and activity predictions on them.
+A curated list of awesome papers, data sets, frameworks, packages, blogs, and other resources for ML for small-molecule drug discovery. Please [contribute](CONTRIBUTING.md)!
 
 ## Contents
 
-* [Related lists](#related-lists)
 * [Papers](#papers)
     * [Survey papers](#papers-surveys)
     * [Representation and transfer learning](#papers-representation)
@@ -14,13 +13,10 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
     * [Synthetic accessability and retrosynthetic planning](#papers-synthetic-accessibility)
     * [Visualization and interpretability](#papers-viz)
 * [Data sets](#datasets)
-* [Frameworks](#frameworks)
-* [Libraries](#libraries)
+* [Frameworks, Libraries, and Software Tools](#frameworks)
 * [Blogs](#blogs)
 * [Twitter](#twitter)
-
-## Related lists
-* [Awesome cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics)
+* [Related lists](#related-lists)
 
 ## Papers
 
@@ -33,6 +29,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Walters and Barzilay, 2020. [Applications of Deep Learning in Molecule Generation and Molecular Property Prediction](https://pubs.acs.org/doi/10.1021/acs.accounts.0c00699).
 * Cai et al, 2020. [Transfer Learning for Drug Discovery](https://doi.org/10.1021/acs.jmedchem.9b02147).
 
+
 <a id="papers-representation"></a>
 ### Representation and transfer learning
 
@@ -42,6 +39,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Li and Fourches, 2020. [Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00430-x). [[Code](https://github.com/XinhaoLi74/MolPMoFiT)]
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). [[Code](https://github.com/snap-stanford/pretrain-gnns)]
 * Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237) [[Code](https://github.com/chemprop/chemprop)]
+
 
 <a id="papers-generative-algorithms"></a>
 ### Generative algorithms
@@ -59,6 +57,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Jin et al, 2018. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364). [[Code](https://github.com/wengong-jin/icml18-jtnn)]
 * Merk et al, 2018. [De Novo Design of Bioactive Small Molecules by Artificial Intelligence](https://pubmed.ncbi.nlm.nih.gov/29319225/).
 
+
 <a id="papers-hit-finding"></a>
 ### Hit finding and potency prediciton
 
@@ -69,6 +68,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Cáceres et al, 2020. [Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00565).
 * Lin et al, 2019. [Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9).
 
+
 <a id="papers-adme-tox"></a>
 ### ADME and toxicity prediction
 
@@ -77,6 +77,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Ryu et al, 2020. [DeepHIT: a deep learning framework for prediction of hERG-induced cardiotoxicity](https://doi.org/10.1093/bioinformatics/btaa075). [[Code](https://bitbucket.org/krictai/deephit/src/master/)]
 * Lombardo et al, 2018. [In Silico Absorption, Distribution, Metabolism, Excretion, and Pharmacokinetics (ADME-PK): Utility and Best Practices](https://pubs.acs.org/doi/10.1021/acs.jmedchem.7b00487).
 
+
 <a id="papers-synthetic-accessibility"></a>
 ### Synthetic accessability and retrosynthetic planning
 
@@ -84,6 +85,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Somnath et al, 2020. [Learning Graph Models for Retrosynthesis Prediction](https://arxiv.org/abs/2006.07038).
 * Dai et al, 2019. [Retrosynthesis Prediction with Conditional Graph Logic Network](https://arxiv.org/abs/2001.01408). [[Code](https://github.com/Hanjun-Dai/GLN)]
 * Coley et al, 2018. [SCScore: Synthetic Complexity Learned from a Reaction Corpus](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622). [[Code](https://github.com/connorcoley/scscore)] [[DeepChem implementation](https://github.com/deepchem/deepchem/blob/master/deepchem/models/scscore.py)]
+
 
 <a id="papers-viz"></a>
 ### Visualization and interpretability
@@ -95,27 +97,32 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 
 ## Data sets
-* [Therapeutic Data Commons](https://tdcommons.ai/)
-* [MoleculeNet](https://moleculenet.org/)
-* [DrugMatrix](https://ntp.niehs.nih.gov/data/drugmatrix/)
 * [ADME@NCATS](https://opendata.ncats.nih.gov/adme)
+* [DrugMatrix](https://ntp.niehs.nih.gov/data/drugmatrix/)
 * [Enamine Real database](https://enamine.net/compound-collections/real-compounds/real-database)
+* [MoleculeNet](https://moleculenet.org/)
 * [The Open Reaction Database](https://docs.open-reaction-database.org/en/latest/)
+* [Therapeutic Data Commons](https://tdcommons.ai/)
 * [Zinc](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00675)
 
+
+<a id="frameworks"></a>
 ## Frameworks, Libraries, and Software Tools
 * [AutoDock Vina](https://autodock-vina.readthedocs.io/en/latest/index.html)
 * [BioPandas](http://rasbt.github.io/biopandas/)
 * [DeepChem](https://deepchem.io/)
+* [Open Babel](http://openbabel.org/wiki/Main_Page)
 * [pdb-tools](http://www.bonvinlab.org/pdb-tools/)
 * [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 * [rd_filters](https://github.com/PatWalters/rd_filters)
+
 
 ## Blogs
 * [Hyperparameter Space](http://hyperparameter.space/)
 * [Is Life Worth Living](https://iwatobipen.wordpress.com/)
 * [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/)
 * [RDKit Blog](https://greglandrum.github.io/rdkit-blog/)
+
 
 ## Twitter
 * [Regina Barzilay](https://twitter.com/BarzilayRegina)
@@ -127,3 +134,10 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [Bharath Ramsundar](https://twitter.com/rbhar90)
 * [Marwin Segler](https://twitter.com/marwinsegler)
 * [Patrick Walters](https://twitter.com/wpwalters)
+
+
+## Related lists
+* [Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics)
+* [Awesome Drug Discovery](https://github.com/xnuohz/awesome-drug-discovery)
+* [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry)
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-)
