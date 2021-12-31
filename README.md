@@ -36,6 +36,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Representation and transfer learning
 
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). [[Code](https://github.com/seyonechithrananda/bert-loves-chemistry)]
+* Satorras et al, 2021. [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844). [[Code](https://github.com/vgsatorras/egnn)]
 * Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035).
 * Chuang and Keiser, 2020. [Attention-Based Learning on Molecular Ensembles](https://arxiv.org/abs/2011.12820).
 * Li and Fourches, 2020. [Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00430-x). [[Code](https://github.com/XinhaoLi74/MolPMoFiT)]
@@ -46,7 +47,9 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 <a id="papers-generative-algorithms"></a>
 ### Generative algorithms
 
+* Bengio et al, 2021. [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399). [[Code](https://github.com/bengioe/gflownet)]
 * Berenger and Tsuda, 2021. [Molecular generation by Fast Assembly of (Deep)SMILES fragments](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00566-4). [[Code](https://github.com/UnixJunkie/FASMIFRA)]
+* Gao et al, 2021. [Amortized Tree Generation for Bottom-up Synthesis Planning and Synthesizable Molecular Design](https://arxiv.org/abs/2110.06389). [[Code](https://github.com/wenhao-gao/SynNet)]
 * Takeuchi et al, 2021. [R-group replacement database for medicinal chemistry](https://www.future-science.com/doi/10.2144/fsoa-2021-0062).
 * Imrie et al, 2020. [Deep Generative Models for 3D Linker Design](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01120). [[Code](https://github.com/oxpig/DeLinker)]
 * Jin et al, 2020. [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/abs/2002.03230). [[Code](https://github.com/wengong-jin/hgraph2graph)]
@@ -107,6 +110,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [ChEMBL](https://www.ebi.ac.uk/chembl/)
 * [DrugMatrix](https://ntp.niehs.nih.gov/data/drugmatrix/)
 * [Enamine Real database](https://enamine.net/compound-collections/real-compounds/real-database)
+* [hERG Central](https://www.cambridgemedchemconsulting.com/news/index_files/81f15972727e1fe70ae7f37514bdab58-362.html)
 * [MoleculeNet](https://moleculenet.org/)
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 * [The Open Reaction Database](https://docs.open-reaction-database.org/en/latest/)
@@ -124,6 +128,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 * [rd_filters](https://github.com/PatWalters/rd_filters)
 * [Small-World Search](https://sw.docking.org/search.html)
+* [TorchDrug](https://torchdrug.ai/)
 
 
 ## Blogs
