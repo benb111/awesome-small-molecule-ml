@@ -124,7 +124,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ## Frameworks, Libraries, and Software Tools
 * [AutoDock Vina](https://autodock-vina.readthedocs.io/en/latest/index.html)
 * [BioPandas](http://rasbt.github.io/biopandas/)
-* [DeepChem](https://deepchem.io/)
+* [DeepChem](https://deepchem.io/) [[Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials)]
 * [Open Babel](http://openbabel.org/wiki/Main_Page)
 * [pdb-tools](http://www.bonvinlab.org/pdb-tools/)
 * [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
