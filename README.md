@@ -43,7 +43,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). [[Code](https://github.com/snap-stanford/pretrain-gnns)]
 * Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). [[Code](https://github.com/chemprop/chemprop)]
 * Feinberg et al, 2018. [PotentialNet for Molecular Property Prediction](https://pubs.acs.org/doi/abs/10.1021/acscentsci.8b00507).
-* Altae-Tran et al, 2017 [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00367).
+* Altae-Tran et al, 2017. [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00367).
 
 
 <a id="papers-generative-algorithms"></a>
