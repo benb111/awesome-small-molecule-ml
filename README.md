@@ -40,6 +40,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035).
 * Chuang and Keiser, 2020. [Attention-Based Learning on Molecular Ensembles](https://arxiv.org/abs/2011.12820).
 * Li and Fourches, 2020. [Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00430-x). [[Code](https://github.com/XinhaoLi74/MolPMoFiT)]
+* Kren et al, 2019. [Self-Referencing Embedded Strings (SELFIES)](https://arxiv.org/abs/1905.13741)
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). [[Code](https://github.com/snap-stanford/pretrain-gnns)]
 * Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). [[Code](https://github.com/chemprop/chemprop)]
 * Feinberg et al, 2018. [PotentialNet for Molecular Property Prediction](https://pubs.acs.org/doi/abs/10.1021/acscentsci.8b00507).
@@ -91,6 +92,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Synthetic accessability and retrosynthetic planning
 
 * Fortunato et al, 2020. [Data augmentation and pretraining for template-based retrosynthetic prediction in computer-aided synthesis planning](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00403).
+* Koch et al, 2020. [Reinforcement Learning for Bioretrosynthesis](https://pubs.acs.org/doi/10.1021/acssynbio.9b00447)
 * Somnath et al, 2020. [Learning Graph Models for Retrosynthesis Prediction](https://arxiv.org/abs/2006.07038).
 * Dai et al, 2019. [Retrosynthesis Prediction with Conditional Graph Logic Network](https://arxiv.org/abs/2001.01408). [[Code](https://github.com/Hanjun-Dai/GLN)]
 * Coley et al, 2018. [SCScore: Synthetic Complexity Learned from a Reaction Corpus](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622). [[Code](https://github.com/connorcoley/scscore)] [[DeepChem implementation](https://github.com/deepchem/deepchem/blob/master/deepchem/models/scscore.py)]
@@ -114,10 +116,13 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [Enamine Real database](https://enamine.net/compound-collections/real-compounds/real-database)
 * [hERG Central](https://www.cambridgemedchemconsulting.com/news/index_files/81f15972727e1fe70ae7f37514bdab58-362.html)
 * [MoleculeNet](https://moleculenet.org/)
+* [MONA: DB of Mass spec + other readouts](https://mona.fiehnlab.ucdavis.edu/)
+* [NPASS database of natural products](http://bidd.group/NPASS/)
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 * [The Open Reaction Database](https://docs.open-reaction-database.org/en/latest/)
 * [Therapeutic Data Commons](https://tdcommons.ai/)
 * [Zinc](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00675)
+
 
 
 <a id="frameworks"></a>
