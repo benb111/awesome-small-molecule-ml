@@ -112,6 +112,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [AMED Cardiotoxicity Database](https://drugdesign.riken.jp/hERGdb/)
 * [BindingDB](https://www.bindingdb.org/bind/index.jsp)
 * [ChEMBL](https://www.ebi.ac.uk/chembl/)
+* [DrugBank](https://go.drugbank.com)
 * [DrugMatrix](https://ntp.niehs.nih.gov/data/drugmatrix/)
 * [Enamine Real database](https://enamine.net/compound-collections/real-compounds/real-database)
 * [hERG Central](https://www.cambridgemedchemconsulting.com/news/index_files/81f15972727e1fe70ae7f37514bdab58-362.html)
