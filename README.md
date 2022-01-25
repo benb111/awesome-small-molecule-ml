@@ -7,7 +7,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 * [Papers](#papers)
     * [Survey papers](#papers-surveys)
-    * [Representation and transfer learning](#papers-representation)
+    * [Representation, transfer, and few-shot learning](#papers-representation)
     * [Generative algorithms](#papers-generative-algorithms)
     * [Hit finding and potency prediciton](#papers-hit-finding)
     * [ADME and toxicity prediction](#papers-adme-tox)
@@ -33,10 +33,11 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 
 <a id="papers-representation"></a>
-### Representation and transfer learning
+### Representation, transfer learning, and few-shot learning
 
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). [[Code](https://github.com/seyonechithrananda/bert-loves-chemistry)]
 * Satorras et al, 2021. [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844). [[Code](https://github.com/vgsatorras/egnn)]
+* Stanley et al, 2021. [FS-Mol: A Few-Shot Learning Dataset of Molecules](https://openreview.net/forum?id=701FtuyLlAd). [[Code](https://github.com/microsoft/FS-Mol)]
 * Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035).
 * Chuang and Keiser, 2020. [Attention-Based Learning on Molecular Ensembles](https://arxiv.org/abs/2011.12820).
 * Li and Fourches, 2020. [Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00430-x). [[Code](https://github.com/XinhaoLi74/MolPMoFiT)]
