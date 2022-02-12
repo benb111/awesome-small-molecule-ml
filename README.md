@@ -6,7 +6,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ## Contents
 
 * [Papers](#papers)
-    * [Survey papers](#papers-surveys)
+    * [Survey papers and books](#papers-surveys)
     * [Representation, transfer, and few-shot learning](#papers-representation)
     * [Generative algorithms](#papers-generative-algorithms)
     * [Hit finding and potency prediciton](#papers-hit-finding)
@@ -23,9 +23,10 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ## Papers
 
 <a id="papers-surveys"></a>
-### Survey papers
+### Survey papers and books
 
 * Walters and Barzilay, 2021. [Critical assessment of AI in drug discovery](https://doi.org/10.1080/17460441.2021.1915982).
+* White, 2021. [Deep Learning for Molecules and Materials](https://dmol.pub/).
 * Coley, 2020. [Defining and Exploring Chemical Spaces](https://dspace.mit.edu/handle/1721.1/131238).
 * Chuang et al, 2020. [Learning Molecular Representations for Medicinal Chemistry](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c00385).
 * Walters and Barzilay, 2020. [Applications of Deep Learning in Molecule Generation and Molecular Property Prediction](https://pubs.acs.org/doi/10.1021/acs.accounts.0c00699).
