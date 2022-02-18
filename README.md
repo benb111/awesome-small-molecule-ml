@@ -71,6 +71,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 <a id="papers-hit-finding"></a>
 ### Hit finding and potency prediciton
 
+* Stärk et al, 2022. [EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction](https://arxiv.org/abs/2202.05146). [[Code](https://github.com/HannesStark/EquiBind)]
 * Bender et al, 2021. [A practical guide to large-scale docking](https://www.nature.com/articles/s41596-021-00597-z).
 * García-Ortegón et al, 2021. [DOCKSTRING: easy molecular docking yields better benchmarks for ligand design](https://arxiv.org/abs/2110.15486). [[Code](https://github.com/dockstring/dockstring)] [[Data](https://figshare.com/s/95f2fed733dec170b998)]
 * Graff et al, 2021. [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e). [[Code](https://github.com/coleygroup/molpal)]
