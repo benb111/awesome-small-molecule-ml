@@ -36,6 +36,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 <a id="papers-representation"></a>
 ### Representation, transfer learning, and few-shot learning
 
+* Stärk et al, 2022. [EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction](https://arxiv.org/abs/2202.05146). [[Code](https://github.com/HannesStark/EquiBind)]
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). [[Code](https://github.com/seyonechithrananda/bert-loves-chemistry)]
 * Satorras et al, 2021. [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844). [[Code](https://github.com/vgsatorras/egnn)]
 * Stanley et al, 2021. [FS-Mol: A Few-Shot Learning Dataset of Molecules](https://openreview.net/forum?id=701FtuyLlAd). [[Code](https://github.com/microsoft/FS-Mol)]
