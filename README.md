@@ -47,6 +47,9 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). [[Code](https://github.com/chemprop/chemprop)]
 * Feinberg et al, 2018. [PotentialNet for Molecular Property Prediction](https://pubs.acs.org/doi/abs/10.1021/acscentsci.8b00507).
 * Altae-Tran et al, 2017. [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00367).
+* Xue et al, 2021. [X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full). [[Code](https://github.com/bm2-lab/X-MOL)]
+* Wang et al, 2022. [Molecular Contrastive Learning of Representations via Graph Neural Networks](https://arxiv.org/pdf/2102.10056.pdf). [[Code](https://github.com/yuyangw/MolCLR)]
+* Maziarka et al, 2020. [Molecule Attention Transformer](https://arxiv.org/pdf/2002.08264.pdf). [[Code](https://github.com/ardigen/MAT)]
 
 
 <a id="papers-generative-algorithms"></a>
@@ -89,6 +92,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Cai et al, 2019. [Deep Learning-Based Prediction of Drug-Induced Cardiotoxicity](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00769). [[Code](https://github.com/ChengF-Lab/deephERG)]
 * Ogura et al, 2019. [Support Vector Machine model for hERG inhibitory activities based on the integrated hERG database using descriptor selection by NSGA-II](https://www.nature.com/articles/s41598-019-47536-3). [[Data](https://drugdesign.riken.jp/hERGdb/)]
 * Lombardo et al, 2018. [In Silico Absorption, Distribution, Metabolism, Excretion, and Pharmacokinetics (ADME-PK): Utility and Best Practices](https://pubs.acs.org/doi/10.1021/acs.jmedchem.7b00487).
+* Karim et al, 2021. [CardioTox net: a robust predictor for hERG channel blockade based on deep learning meta-feature ensembles](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00541-z). [[Code](https://github.com/Abdulk084/CardioTox)]
 
 
 <a id="papers-synthetic-accessibility"></a>
