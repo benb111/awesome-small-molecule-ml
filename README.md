@@ -36,20 +36,20 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 <a id="papers-representation"></a>
 ### Representation, transfer learning, and few-shot learning
 
+* Wang et al, 2022. [Molecular Contrastive Learning of Representations via Graph Neural Networks](https://arxiv.org/pdf/2102.10056.pdf). [[Code](https://github.com/yuyangw/MolCLR)]
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). [[Code](https://github.com/seyonechithrananda/bert-loves-chemistry)]
 * Satorras et al, 2021. [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844). [[Code](https://github.com/vgsatorras/egnn)]
 * Stanley et al, 2021. [FS-Mol: A Few-Shot Learning Dataset of Molecules](https://openreview.net/forum?id=701FtuyLlAd). [[Code](https://github.com/microsoft/FS-Mol)]
 * Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035).
+* Xue et al, 2021. [X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full). [[Code](https://github.com/bm2-lab/X-MOL)]
 * Chuang and Keiser, 2020. [Attention-Based Learning on Molecular Ensembles](https://arxiv.org/abs/2011.12820).
 * Li and Fourches, 2020. [Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00430-x). [[Code](https://github.com/XinhaoLi74/MolPMoFiT)]
+* Maziarka et al, 2020. [Molecule Attention Transformer](https://arxiv.org/pdf/2002.08264.pdf). [[Code](https://github.com/ardigen/MAT)]
 * Kren et al, 2019. [Self-Referencing Embedded Strings (SELFIES)](https://arxiv.org/abs/1905.13741)
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). [[Code](https://github.com/snap-stanford/pretrain-gnns)]
 * Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). [[Code](https://github.com/chemprop/chemprop)]
 * Feinberg et al, 2018. [PotentialNet for Molecular Property Prediction](https://pubs.acs.org/doi/abs/10.1021/acscentsci.8b00507).
 * Altae-Tran et al, 2017. [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00367).
-* Xue et al, 2021. [X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full). [[Code](https://github.com/bm2-lab/X-MOL)]
-* Wang et al, 2022. [Molecular Contrastive Learning of Representations via Graph Neural Networks](https://arxiv.org/pdf/2102.10056.pdf). [[Code](https://github.com/yuyangw/MolCLR)]
-* Maziarka et al, 2020. [Molecule Attention Transformer](https://arxiv.org/pdf/2002.08264.pdf). [[Code](https://github.com/ardigen/MAT)]
 
 
 <a id="papers-generative-algorithms"></a>
@@ -86,13 +86,13 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 <a id="papers-adme-tox"></a>
 ### ADME and toxicity prediction
 
+* Karim et al, 2021. [CardioTox net: a robust predictor for hERG channel blockade based on deep learning meta-feature ensembles](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00541-z). [[Code](https://github.com/Abdulk084/CardioTox)]
 * Siramshetty et al, 2021. [Validating ADME QSAR Models Using Marketed Drugs](https://journals.sagepub.com/doi/10.1177/24725552211017520).
 * Göller et al, 2020. [Bayer’s in silico ADMET platform: a journey of machine learning over the past two decades](https://doi.org/10.1016/j.drudis.2020.07.001).
 * Ryu et al, 2020. [DeepHIT: a deep learning framework for prediction of hERG-induced cardiotoxicity](https://doi.org/10.1093/bioinformatics/btaa075). [[Code](https://bitbucket.org/krictai/deephit/src/master/)]
 * Cai et al, 2019. [Deep Learning-Based Prediction of Drug-Induced Cardiotoxicity](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00769). [[Code](https://github.com/ChengF-Lab/deephERG)]
 * Ogura et al, 2019. [Support Vector Machine model for hERG inhibitory activities based on the integrated hERG database using descriptor selection by NSGA-II](https://www.nature.com/articles/s41598-019-47536-3). [[Data](https://drugdesign.riken.jp/hERGdb/)]
 * Lombardo et al, 2018. [In Silico Absorption, Distribution, Metabolism, Excretion, and Pharmacokinetics (ADME-PK): Utility and Best Practices](https://pubs.acs.org/doi/10.1021/acs.jmedchem.7b00487).
-* Karim et al, 2021. [CardioTox net: a robust predictor for hERG channel blockade based on deep learning meta-feature ensembles](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00541-z). [[Code](https://github.com/Abdulk084/CardioTox)]
 
 
 <a id="papers-synthetic-accessibility"></a>
