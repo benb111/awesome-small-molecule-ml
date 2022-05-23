@@ -12,6 +12,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
     * [Hit finding and potency prediciton](#papers-hit-finding)
     * [ADME and toxicity prediction](#papers-adme-tox)
     * [Synthetic accessability and retrosynthetic planning](#papers-synthetic-accessibility)
+    * [DNA-encoded libraries (DELs)](#dels)
     * [Visualization and interpretability](#papers-viz)
 * [Data sets](#data-sets)
 * [Frameworks, Libraries, and Software Tools](#frameworks)
@@ -36,16 +37,18 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 <a id="papers-representation"></a>
 ### Representation, transfer learning, and few-shot learning
 
+* Krenn et al, 2022. [SELFIES and the future of molecular string representations](https://arxiv.org/abs/2204.00056).
 * Wang et al, 2022. [Molecular Contrastive Learning of Representations via Graph Neural Networks](https://arxiv.org/pdf/2102.10056.pdf). [[Code](https://github.com/yuyangw/MolCLR)]
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). [[Code](https://github.com/seyonechithrananda/bert-loves-chemistry)]
 * Satorras et al, 2021. [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844). [[Code](https://github.com/vgsatorras/egnn)]
 * Stanley et al, 2021. [FS-Mol: A Few-Shot Learning Dataset of Molecules](https://openreview.net/forum?id=701FtuyLlAd). [[Code](https://github.com/microsoft/FS-Mol)]
 * Townshend et al, 2021. [ATOM3D: Tasks On Molecules in Three Dimensions](https://arxiv.org/abs/2012.04035).
 * Xue et al, 2021. [X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full). [[Code](https://github.com/bm2-lab/X-MOL)]
+* Ying et al, 2021. [Do Transformers Really Perform Bad for Graph Representation? (Graphormer paper)](https://arxiv.org/abs/2106.05234). [[Code](https://github.com/microsoft/Graphormer)]
 * Chuang and Keiser, 2020. [Attention-Based Learning on Molecular Ensembles](https://arxiv.org/abs/2011.12820).
 * Li and Fourches, 2020. [Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00430-x). [[Code](https://github.com/XinhaoLi74/MolPMoFiT)]
 * Maziarka et al, 2020. [Molecule Attention Transformer](https://arxiv.org/pdf/2002.08264.pdf). [[Code](https://github.com/ardigen/MAT)]
-* Kren et al, 2019. [Self-Referencing Embedded Strings (SELFIES)](https://arxiv.org/abs/1905.13741)
+* Rong et al. [Self-Supervised Graph Transformer on Large-Scale Molecular Data (GROVER paper)](https://arxiv.org/abs/2007.02835). [[Code](https://github.com/tencent-ailab/grover)]
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). [[Code](https://github.com/snap-stanford/pretrain-gnns)]
 * Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). [[Code](https://github.com/chemprop/chemprop)]
 * Feinberg et al, 2018. [PotentialNet for Molecular Property Prediction](https://pubs.acs.org/doi/abs/10.1021/acscentsci.8b00507).
@@ -86,6 +89,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 <a id="papers-adme-tox"></a>
 ### ADME and toxicity prediction
 
+* Fradkin et al, 2022. [A Graph Neural Network Approach to Molecule Carcinogenicity Prediction](https://www.biorxiv.org/content/10.1101/2021.11.10.468094v1.abstract).
 * Karim et al, 2021. [CardioTox net: a robust predictor for hERG channel blockade based on deep learning meta-feature ensembles](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00541-z). [[Code](https://github.com/Abdulk084/CardioTox)]
 * Siramshetty et al, 2021. [Validating ADME QSAR Models Using Marketed Drugs](https://journals.sagepub.com/doi/10.1177/24725552211017520).
 * Göller et al, 2020. [Bayer’s in silico ADMET platform: a journey of machine learning over the past two decades](https://doi.org/10.1016/j.drudis.2020.07.001).
@@ -99,11 +103,16 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Synthetic accessability and retrosynthetic planning
 
 * Fortunato et al, 2020. [Data augmentation and pretraining for template-based retrosynthetic prediction in computer-aided synthesis planning](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00403).
-* Koch et al, 2020. [Reinforcement Learning for Bioretrosynthesis](https://pubs.acs.org/doi/10.1021/acssynbio.9b00447)
+* Koch et al, 2020. [Reinforcement Learning for Bioretrosynthesis](https://pubs.acs.org/doi/10.1021/acssynbio.9b00447).
 * Somnath et al, 2020. [Learning Graph Models for Retrosynthesis Prediction](https://arxiv.org/abs/2006.07038).
 * Dai et al, 2019. [Retrosynthesis Prediction with Conditional Graph Logic Network](https://arxiv.org/abs/2001.01408). [[Code](https://github.com/Hanjun-Dai/GLN)]
 * Coley et al, 2018. [SCScore: Synthetic Complexity Learned from a Reaction Corpus](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622). [[Code](https://github.com/connorcoley/scscore)] [[DeepChem implementation](https://github.com/deepchem/deepchem/blob/master/deepchem/models/scscore.py)]
 
+
+<a id="dels"></a>
+### DNA-encoded libraries (DELs)
+* Lim et al, 2022. [Machine Learning on DNA-Encoded Library Count Data Using an Uncertainty-Aware Probabilistic Loss Function](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00041). [[Code](https://github.com/coleygroup/del_qsar)]
+* McCloskey et al, 2020. [Machine Learning on DNA-Encoded Libraries: A New Paradigm for Hit Finding](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c00452).
 
 <a id="papers-viz"></a>
 ### Visualization and interpretability
