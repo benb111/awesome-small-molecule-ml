@@ -49,7 +49,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Li and Fourches, 2020. [Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00430-x). [[Code](https://github.com/XinhaoLi74/MolPMoFiT)]
 * Maziarka et al, 2020. [Molecule Attention Transformer](https://arxiv.org/pdf/2002.08264.pdf). [[Code](https://github.com/ardigen/MAT)]
 * Nguyen et al., 2020. [Meta-Learning GNN Initializations for Low-Resource Molecular Property Prediction
-](https://arxiv.org/pdf/2003.05996.pdf)
+](https://arxiv.org/pdf/2003.05996.pdf) [[Code](https://github.com/GSK-AI/meta-learning-qsar)]
 * Rong et al., 2020. [Self-Supervised Graph Transformer on Large-Scale Molecular Data (GROVER paper)](https://arxiv.org/abs/2007.02835). [[Code](https://github.com/tencent-ailab/grover)]
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). [[Code](https://github.com/snap-stanford/pretrain-gnns)]
 * Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). [[Code](https://github.com/chemprop/chemprop)]
