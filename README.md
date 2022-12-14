@@ -182,4 +182,5 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [Awesome Drug Discovery](https://github.com/xnuohz/awesome-drug-discovery)
 * [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 * [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry)
-* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-)
+* [Awesome Molecular Docking](https://github.com/yangnianzu0515/awesome-molecular-docking)
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-)]
