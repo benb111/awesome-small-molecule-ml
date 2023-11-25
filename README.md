@@ -38,6 +38,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 <a id="papers-representation"></a>
 ### Representation, transfer learning, and few-shot learning
 
+* Yang et al, 2022. [Learning Substructure Invariance for Out-of-Distribution Molecular Representations](https://openreview.net/forum?id=2nWUNTnFijm). [[Code](https://github.com/yangnianzu0515/MoleOOD)]
 * Krenn et al, 2022. [SELFIES and the future of molecular string representations](https://arxiv.org/abs/2204.00056).
 * Wang et al, 2022. [Molecular Contrastive Learning of Representations via Graph Neural Networks](https://arxiv.org/pdf/2102.10056.pdf). [[Code](https://github.com/yuyangw/MolCLR)]
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). [[Code](https://github.com/seyonechithrananda/bert-loves-chemistry)]
@@ -190,4 +191,5 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [Awesome Drug Discovery](https://github.com/xnuohz/awesome-drug-discovery)
 * [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 * [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry)
-* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-)
+* [Awesome Molecular Docking](https://github.com/yangnianzu0515/awesome-molecular-docking)
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-)]
