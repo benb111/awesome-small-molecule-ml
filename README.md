@@ -14,6 +14,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
     * [Synthetic accessability and retrosynthetic planning](#papers-synthetic-accessibility)
     * [DNA-encoded libraries (DELs)](#dels)
     * [Visualization and interpretability](#papers-viz)
+    * [MS/MS prediction](#papers-msms)
 * [Data sets](#data-sets)
 * [Frameworks, Libraries, and Software Tools](#frameworks)
 * [Blogs](#blogs)
@@ -124,6 +125,13 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * Atsushi et al, 2019. [Integrating the Structure–Activity Relationship Matrix Method with Molecular Grid Maps and Activity Landscape Models for Medicinal Chemistry Applications](https://pubs.acs.org/doi/10.1021/acsomega.9b00595).
 * Naveja and Medina-Franco, 2019. [Finding Constellations in Chemical Space Through Core Analysis](https://www.frontiersin.org/articles/10.3389/fchem.2019.00510/full).
 
+<a id="papers-msms"></a>
+### MS/MS prediction
+* Young et al, 2023. [MassFormer: Tandem Mass Spectrum Prediction for Small Molecules using Graph Transformers](https://arxiv.org/abs/2111.04824). [[Code](https://github.com/Roestlab/massformer)] 
+* Goldman el al, 2023. [Prefix-Tree Decoding for Predicting Mass Spectra from Molecules](https://arxiv.org/abs/2303.06470). [[Code](https://github.com/samgoldman97/ms-pred)] 
+* Hong et al, 2023. [3DMolMS: prediction of tandem mass spectra from 3D molecular conformations](https://academic.oup.com/bioinformatics/article/39/6/btad354/7186501). [[Code](https://github.com/JosieHong/3DMolMS)] 
+* Wang et al, 2021. [CFM-ID 4.0: More Accurate ESI-MS/MS Spectral Prediction and Compound Identification](https://pubs.acs.org/doi/10.1021/acs.analchem.1c01465). 
+* Wei et al, 2019. [Rapid Prediction of Electron–Ionization Mass Spectrometry Using Neural Networks](https://pubs.acs.org/doi/10.1021/acscentsci.9b00085). [[Code](https://github.com/brain-research/deep-molecular-massspec)] 
 
 ## Data sets
 * [ADME@NCATS](https://opendata.ncats.nih.gov/adme)
